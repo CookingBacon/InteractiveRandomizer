@@ -4,4 +4,4 @@ from the cards. This idea came from when I had a Panda Express fortune cookie fo
 
 ### Three-Card Tarot Reading Guide
 In my opinion, the three-card tarot spread is one of the easiest methods to do a tarot reading. You ask the cards a question and they will provide you with an answer or a new perspective to your situation. Card 1 is about the past and tells you about the events that lead to where you're at. Card 2 is about the present and tells you about your current situation. Card 3 is about the future and shows a potential future outcome or guidance. 
-![Visual guide to a three-card tarot spread](InteractiveRandomizer/VisualGuide,png)
+![Visual guide to a three-card tarot spread](VisualGuide,png)

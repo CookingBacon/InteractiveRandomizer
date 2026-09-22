@@ -1,5 +1,6 @@
 # Interactive Randomizer
-[Three Card Tarot Reading](https://editor.p5js.org/CookingBacon/sketches/l1SxT-08e).
+[Three Card Tarot Reading](https://editor.p5js.org/CookingBacon/sketches/l1SxT-08e)
+
 So my interactive randomizer is a three-card tarot spread. You're meant to ask a deep-thought question and reveal each card in order to interpret an answer 
 from the cards. This idea came from when I had a Panda Express fortune cookie for lunch one time and I remembered thinking, "man I wonder what fortune could be inside. It could be anything, it's kinda just random." Then I connected this assignment with the idea of a fortune cookie. Somehow my train of thought ended up going into tarot cards for the final idea rather than a fortune cookie. 
 

@@ -4,4 +4,12 @@ from the cards. This idea came from when I had a Panda Express fortune cookie fo
 
 ### Three-Card Tarot Reading Guide
 In my opinion, the three-card tarot spread is one of the easiest methods to do a tarot reading. You ask the cards a question and they will provide you with an answer or a new perspective to your situation. Card 1 is about the past and tells you about the events that lead to where you're at. Card 2 is about the present and tells you about your current situation. Card 3 is about the future and shows a potential future outcome or guidance. 
+
 ![Visual guide to a three-card tarot spread](VisualGuide.png)
+
+### Wireframe and Moodboard
+The wireframe was a way for me to sketch the composition of how I wanted my actual randomizer to look. Aside from the color palette, I think I've stayed pretty close to the wireframe's composition.
+![Wireframe](Wireframe.png)
+
+For the moodboard, I wanted a sort of cozy and magical aesthetic. The board includes visuals of purple and magenta colors and just stuff that gave me a cozy lady luck fortune kinda vibe.
+![Moodboard](Moodboard.png)
